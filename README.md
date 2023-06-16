@@ -1,11 +1,11 @@
-About r-whoami
-==============
+About r-whoami-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-whoami-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/r-lib/whoami#readme
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-whoami-feedstock/blob/main/LICENSE.txt)
 
 Summary: Look up the username and full name of the current user, the current user's email address and 'GitHub' username, using various sources of system and configuration information.
 
